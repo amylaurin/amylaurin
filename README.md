@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering and UX Design opportunities. 
 - 🌱 I’m currently learning:
   - IOS Mobile Development (Swift/SwiftUI), Javascript, React, & Springboot 
-  - Design Principles and User Research, with Wireframing & Prototyping in Figma
+  - Design Principles, & User Research, with Wireframing & Prototyping in Figma
 
 <!---
 amylaurin/amylaurin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
